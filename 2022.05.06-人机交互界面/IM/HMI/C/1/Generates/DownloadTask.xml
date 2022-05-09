@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="17.0.0.0"
+    CreationTime="2022-05-06 08:02:27 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="2022.05.06-人机交互界面.PC station[SIMATIC PC station - WinCC RT Advanced]"
+    RtProjectFolderName="2022.05.06-人机交互界面.PC station[SIMATIC PC station - WinCC RT Advanced]"
+    DeviceType="PC-OP"
+    DisplayOrientation="0"
+    RTReleaseNo="17.0.0.0"
+    ImageReleaseNo="17.0.0.0"
+    RTCV="17.0.0.0"
+    PRCV="17.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.tfz</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+</DownloadTask>
